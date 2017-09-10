@@ -19,4 +19,6 @@ I don't think I have ever used the backtick key on a computer
 ```
 [Click here ](https://www.google.com)
 
-![Screenshot of my Directory](./images/screenshot-1.png) 
+Screenshot:
+
+![Screenshot of my Directory](./images/screenshot-1.png)
