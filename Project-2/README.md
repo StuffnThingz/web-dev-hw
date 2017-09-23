@@ -9,12 +9,5 @@
 2. Take Quiz 1.
 3. Complete Peer Review section.
 
-**Things I have completed so far**
-1. Peer Review.
-2. My Instructable Webpage.
 
-**To Do**
-1. Post site live
-2. Take Quiz
-
-The html part wasn't too hard for me.  The book is a life saver.  For some reason I thought we had to have a full functioning website done by Monday.  Then I realized this was just one part of the next few weeks.
+The html part wasn't too hard for me.  The book is a life saver.  For some reason I thought we had to have a full functioning website done by Monday.  Then I realized this was just one part of the next few weeks. I had some trouble remembering exactly how to get our readme and website live. I think now that I have done it a couple of times, the process will go much smoother.
