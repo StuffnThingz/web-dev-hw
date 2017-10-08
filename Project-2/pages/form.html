@@ -13,14 +13,57 @@
           <h1 align= "center" id= "top">Review and Tweak</h1>
         <hr>
           <form align="center" action="http://www.example.com/
+          review.php">
+            <fieldset>
+              <legend>User Info:</legend>
+                Username: <input type="text" autofocus required><br>
+                Email: <input type="text" placeholder="Enter Email" required><br>
+            </fieldset>
+          </form>
+
+          <form align="center" action="http://www.example.com/
           review.php" method="post">
-          <p align="center">
-            What did you think? What would you change?
-          </p>
-            <textarea name="comments" rows="10" cols="40">
-            Review and Tweak.</textarea>
+            <p align="center">
+              What did you think? What would you change?
+            </p>
+            <textarea name="comments" rows="10" cols="40"
+            placeholder="Review and Tweak"></textarea>
           </form>
         <hr>
 
+        <form align="center" action="http://www.example.com/
+        review.php">
+          <p>
+            Would you recommend this recipe to a friend?
+            <br />
+            <label for="Yes">Yes</label>
+            <input type="radio" name="answer" value="yes"
+            checked="checked"/>
+            <label for="No">No</label>
+            <input type="radio" name="answer" value="no"/>
+          </p>
+        <hr />
+
+        <form align="center" action="http://www.example.com/
+        review.php" method="post" id="rate-form" class="basic-form">
+          <p>
+            How would you rate this recipe?
+          </p>
+            <select name="ratings">
+              <option value="It was gross!">It was gross!</option>
+              <option value="Meh...">Meh...</option>
+              <option value="Just Okay.">Just Okay.</option>
+              <option value="Not too bad.">Not too bad.</option>
+              <option value="Loved it!">Loved it!</option>
+            </select>
+            <input type="submit" name="Rate Me" value="Rate Me" />
+        </form>
+      <hr />
+
+      <p align="center">
+        <a href="./instructions.html">Back to instructions</a>
+        <br>
+        <a href="../index.html">Home</a>
+      </p>
 
       </body>

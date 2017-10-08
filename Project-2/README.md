@@ -5,9 +5,9 @@
 ---
 
 **This weeks tasks**
-1. Make Instructable HTML site.
-2. Take Quiz 1.
-3. Complete Peer Review section.
+1. Continue Instructable HTML site.
+2. Make instruction page.
+3. Make forms page.
 
 
-The html part wasn't too hard for me.  The book is a life saver.  For some reason I thought we had to have a full functioning website done by Monday.  Then I realized this was just one part of the next few weeks. I had some trouble remembering exactly how to get our readme and website live. I think now that I have done it a couple of times, the process will go much smoother.
+I was a little rusty starting off this week due to having no practice last week. The only problem I ran into, was linking my images properly. I felt really dumb when I found out all I had to do was add an extra period to link back two folders.  Besides that, I really just experimented. I made good use of the examples in the book, as well as the inspect feature in Chrome. It was nice to look at other people's code to get an idea of how I need to order everything. 
