@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Cinzel';
+  src: url('../fonts/Cinzel-Regular.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cinzel';
+  src: url('../fonts/Cinzel-Bold.ttf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
