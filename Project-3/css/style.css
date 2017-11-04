@@ -1,7 +1,12 @@
+body {
+  background-color: #D2474D;
+}
+
 h1 {
   font-family: Cinzel;
   text-align: center;
-  color: #18614A;
+  color: #5DCFA6;
   text-transform: capitalize;
   letter-spacing: .04em;
+  font-size: 32pt;
 }
