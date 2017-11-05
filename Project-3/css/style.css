@@ -59,6 +59,14 @@ h2 {
   font-size: 20px;
 }
 
+p {
+  display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
 .review {
   color: black;
   font-style: italic;
@@ -68,14 +76,6 @@ div {
   display: block;
 }
 
-p {
-  display: block;
-    -webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
-
-}
 
 .pages {
   text-align: center;
