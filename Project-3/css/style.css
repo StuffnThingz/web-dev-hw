@@ -1,12 +1,58 @@
 body {
+  background-color: #5DCFA6;
+}
+
+header {
   background-color: #D2474D;
+  padding: 75px;
+
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+main {
+  background-color: #FFF7DA;
+  flex: 1 1 auto;
+  padding: 250px;
+}
+
+aside {
+  background-color: #E77A4D;
+  flex: 1 1 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  background-color: #D2474D;
+  padding: 75px;
 }
 
 h1 {
-  font-family: Cinzel;
+  font-family: 'Cinzel';
+  color: #5DCFA6;
   text-align: center;
+  text-transform: capitalize;
+  letter-spacing: 0.4em;
+  font-size: 32px;
+}
+
+.pages {
+  text-align: center;
+  word-spacing: 60px;
+}
+
+a {
+  font-family: 'Cinzel';
   color: #5DCFA6;
   text-transform: capitalize;
-  letter-spacing: .04em;
-  font-size: 32pt;
+  text-decoration: none;
+  text-align: center;
+  font-size: 24px;
+
 }
