@@ -90,3 +90,24 @@ a {
   text-align: center;
   font-size: 24px;
 }
+
+.parent-element {
+  min-height: 10em;
+}
+
+.button {
+  font-size: 1em;
+  color: black;
+  background-color: #D2474D;
+  border-color: #5DCFA6;
+  border-style: solid;
+  position: relative;
+  margin: auto;
+  width: 9em;
+  text-align: center;
+}
+
+.button:hover {
+  color: #FFF7DA;
+  font-style: italic;
+}

@@ -27,32 +27,38 @@
             tell you where you can find other people that love reading stuff. While
             you're here you might as well check out Charles on his
             website. Be sure to email him and tell him how much you love his books.
-
+      
           <p align="center">
             <a href="mailto:
             webmaster@example.com">Email Charles</a>
           </p>
 
+
           <p align="center">
             <a href="http://charlesrcross.com/">Check out his website for more info</a>
           </p>
 
-          <table>
-            <tr>
-            <h4>Name Please</h4>
-            <input type="text" name="name" required="required>"
-          </p>
-          <p>
-            <h4>Email</h4>
-            <input type="text" name="email" required="required>"
-          </p>
-          <p>
-            <h4>What did you think of our review?</h4>
-            <textarea name="comments" col="40" rows="4">Please Comment</textarea>
-              <br>
-              <input type="submit" name="submit" value="submit">
-            </tr>
-          </table>
+        <div id="contact" class="contact">
+          <form action="http://www.example.com/comments.php" method="post">
+
+            <p>Name:
+            <input type="text" name="name" id="name_input"
+            value="Name Please" autofocus></p>
+            <p>E-mail Address:
+            <input type="text" name="email" id="email-input"
+            value="Email Please"></p>
+
+            <p>
+              What do you think of our reviews?
+            </p>
+            <textarea name="comments" cols="6" rows="6"
+            style="min-width:50%">
+              Please Comment
+            </textarea>
+            </form>
+
+
+        </div>
 
 
       </main>
