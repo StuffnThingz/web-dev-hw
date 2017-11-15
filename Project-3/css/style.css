@@ -4,14 +4,89 @@ body {
 
 header {
   background-color: #D2474D;
-  padding: 75px;
+  padding: 60px;
+}
 
+.menu-item {
+  margin: auto;
+  padding: 0.5em;
+  min-width: 100px;
+  color: #5DCFA6;
+}
+
+.menu-item:hover {
+  color:  #FFF7DA;
+}
+
+.display-inline-block {
+  display: inline-block;
+}
+
+.logo {
+
+  float: right;
+
+}
+
+.logo img {
+  height: 75px;
+}
+
+.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  margin: 1;
+  margin-top: 0.5em;
+  color: #D2474D;
+  background-color: #5DCFA6;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: #FFF7DA;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-item {
+  display: block;
+  text-align: left;
+  margin: 2;
+  padding: 2;
+  min-width: 8em;
+}
+
+aside.content-side {
+  float: right;
+  margin 2em;
+  margin-top: 2em;
+  padding: 0;
+  width: 20%;
+  min-width: 200px;
+  color:  #FFF7DA;
+  background-color:  #D2474D;
+}
+
+.aside-text p {
+  font-style: italic;
+  padding: 0.5em;
+  margin: 0;
+  font-size: 16px;
+  color: #FFF7DA;
+  text-align: left;
 }
 
 .content {
   display: flex;
   flex-direction: row;
   width: 100%;
+
 }
 
 main {
