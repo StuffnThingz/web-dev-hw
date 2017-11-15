@@ -21,3 +21,7 @@ have been a little more complicated than it needed to be for a first time CSS pr
 I didn't have any trouble as far as gathering fonts, color schemes, and images I think I have that part down at this point.
 
 What I struggled with, was just keeping track of all the stuff on the style.css page.  There was a couple things I used that I didn't really understand like "aside" and "flex." That's one thing I had to post in the issues forum. I'll keep working with it to see what it actually does, especially the flex property. I wanted to get my buttons that links to other pages in a horizontal row, but couln't figure it out. I saw another student figured it out, so maybe I'll go back and see how they did it. One other thing I couldn't figure out was how to center the text in my hover button. I thought I did everything right, but nope. I'd love to work on this more, but I have other classes to get to.
+
+## HW-06
+
+Okay, this was rough. I was really busy this week and didn't have much time to come up with anything good. I really just wanted to scap my whole site and start from scratch, but I just don't have time right now. I think I covered all the requirements for HW-6, I got the navigation, drop menu, and side content in there, but it's not as neat as I want it to be. Hopefully I can get caught up and back on track over the holiday.
