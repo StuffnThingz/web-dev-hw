@@ -1,7 +1,19 @@
-h1, h2 {
+@charset "UTF-8";
+
+h1 {
   font-family: 'Slabo 27px', serif;
+  text-align: center;
+
+}
+
+* {
+  font-family: 'Lato'; Georgia, serif;
+  text-align: center;
+  background-color: #F2F9F1;
 }
 
 p {
-  font-family: 'Lato'; Georgia, serif;
+  text-indent: 25px;
 }
+
+/* LAYOUT AREA */
